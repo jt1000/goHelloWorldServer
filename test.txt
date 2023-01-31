@@ -3,4 +3,4 @@ s
 asdasd
 abcdefg
 testing changes here
-test skip citesting skip 
+test skip citesting skip skip condition
